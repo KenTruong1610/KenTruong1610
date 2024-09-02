@@ -1,11 +1,11 @@
 ## Hi there 👋
-//text
+
 <div style="text-align: center;">
     <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=4991&pause=500&color=39FFD7&background=000000&vCenter=true&width=436&height=54&lines=HELLO%2C+MY+NAME+KENTRUONG1610" alt="Typing SVG" /></h1>
     <h2 align="center">I am a beginner !</h2>
 </div>
 
-//gif
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a42cfca6-d510-4f7a-b410-6701fd5b6ca5" alt="e0fc9ee95cb708556cad821cee441efd">
 </p>
