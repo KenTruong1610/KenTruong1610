@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/KenTruong1610/main/e0fc9ee95cb708556cad821cee441efd.gif"  />
+</div>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/viettung.truongthanh/) 
