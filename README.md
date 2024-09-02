@@ -5,11 +5,12 @@
     <h2 align="center">I am a beginner !</h2>
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=KenTruong1610&label=Profile%20Views&icon=0&pretty=true" />
   </a>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
