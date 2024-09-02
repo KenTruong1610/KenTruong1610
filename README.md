@@ -1,7 +1,9 @@
 ## Hi there 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+to+my+page+KenTruong1610" alt="Typing SVG" /></a>
+<div style="width: 300px; margin-left: auto; margin-right: auto;">
+  ![e0fc9ee95cb708556cad821cee441efd](https://github.com/user-attachments/assets/a42cfca6-d510-4f7a-b410-6701fd5b6ca5)
+</div>
 
-![e0fc9ee95cb708556cad821cee441efd](https://github.com/user-attachments/assets/a42cfca6-d510-4f7a-b410-6701fd5b6ca5)
 
 
 ## 🌐Socials
