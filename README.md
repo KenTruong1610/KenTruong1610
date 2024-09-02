@@ -1,13 +1,7 @@
 ## Hi there 👋
-<div class="centered">
+<div style="text-align: center;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=4991&pause=500&color=39FFD7&background=000000&vCenter=true&width=436&height=54&lines=HELLO%2C+MY+NAME+KENTRUONG1610" alt="Typing SVG" /></a>
 </div>
-
-<style>
-.centered {
-    text-align: center;
-}
-</style>
 
 
 <h2 align="center">I am a beginner !</h2>
