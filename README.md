@@ -1,8 +1,6 @@
 ## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+to+my+page+KenTruong1610" alt="Typing SVG" /></a>
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/KenTruong1610/main/e0fc9ee95cb708556cad821cee441efd.gif"  />
-</div>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/viettung.truongthanh/) 
