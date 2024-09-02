@@ -5,7 +5,7 @@
     <h2 align="center">I am a beginner !</h2>
 </div>
 
-<a align="center" href="https://visitcount.itsvg.in">
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=KenTruong1610&label=Profile%20Views&icon=0&pretty=true" />
 </a>
 
