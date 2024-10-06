@@ -29,6 +29,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=KenTruong1610&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Kentruong1610" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenTruong1610&theme=radical&hide_border=false" alt="Kentruong1610" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenTruong1610&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Kentruong1610" width="100%"/>
     </td>
     <td>
