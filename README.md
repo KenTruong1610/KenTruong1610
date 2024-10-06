@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐Socials
+## 🌐Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/545772291/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
