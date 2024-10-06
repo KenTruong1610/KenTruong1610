@@ -15,7 +15,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐Socials
-[![Facebook](https://facebook.com/https://www.facebook.com/viettung.truongthanh/)]
+<p align="center">
+  <a href="https://www.linkedin.com/in/545772291/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/viettung.truongthanh/" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+</p>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=KenTruong1610&label=Profile%20Views&icon=0&pretty=true" />
 </a>
