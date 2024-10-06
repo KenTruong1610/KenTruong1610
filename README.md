@@ -28,9 +28,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KenTruong1610&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Kentruong1610" width="100%"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenTruong1610&theme=radical&hide_border=false" alt="Kentruong1610" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenTruong1610&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Kentruong1610" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=KenTruong1610&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Kentruong1610" width="70%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenTruong1610&theme=radical&hide_border=false" alt="Kentruong1610" width="70%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenTruong1610&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Kentruong1610" width="70%"/>
     </td>
     <td>
       <p align="center"> 
@@ -39,10 +39,6 @@
     </td>
   </tr>
 </table>
-
-![](https://github-readme-stats.vercel.app/api?username=KenTruong1610&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KenTruong1610&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenTruong1610&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### ✍️Random Dev Quote
