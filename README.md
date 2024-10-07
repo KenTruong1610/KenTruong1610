@@ -44,7 +44,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://preview.redd.it/g3eagm7ja8111.gif?width=1366&auto=webp&s=450b80f05a8ee1160ab0253280c1a8e1d942db51" alt="dev" width="90%"/>
+        <img src="https://preview.redd.it/g3eagm7ja8111.gif?width=1366&auto=webp&s=450b80f05a8ee1160ab0253280c1a8e1d942db51" alt="dev" width="80%"/>
       </p>
     </td>
   </tr>
