@@ -44,7 +44,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif" alt="dev" width="100%"/>
+        <img src="https://preview.redd.it/g3eagm7ja8111.gif?width=1366&auto=webp&s=450b80f05a8ee1160ab0253280c1a8e1d942db51" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
