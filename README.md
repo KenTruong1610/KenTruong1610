@@ -46,12 +46,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kentruong1610&theme=radical&hide_border=false&include_all_commits=false&count_private=false"alt="Kentruong1610" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=KenTruong1610" alt="Kentruong1610" width="100%"/>
-    </td>
-    <td>
       <p align="center"> 
-        <img src="https://preview.redd.it/g3eagm7ja8111.gif?width=1366&auto=webp&s=450b80f05a8ee1160ab0253280c1a8e1d942db51" alt="dev" width="90%"/>
+        <img src="https://preview.redd.it/g3eagm7ja8111.gif?width=1366&auto=webp&s=450b80f05a8ee1160ab0253280c1a8e1d942db51" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
