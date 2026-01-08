@@ -10,10 +10,6 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a42cfca6-d510-4f7a-b410-6701fd5b6ca5" alt="e0fc9ee95cb708556cad821cee441efd">
-<picture>
-    <source srcset="https://raw.githubusercontent.com/BinCry/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/BinCry/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages" />
-  </picture>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
